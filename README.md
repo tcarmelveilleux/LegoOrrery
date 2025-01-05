@@ -22,5 +22,5 @@ It requires only the ULN2003A-based driver board.
 
 Links:
 
+- [YouTube video for the project](https://youtu.be/TQ7dWtdCNkY)
 - [Thingiverse](https://www.thingiverse.com/thing:6900611)
-
