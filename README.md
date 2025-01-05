@@ -1,6 +1,13 @@
+![Overview of project](Description.jpg)
+
 ### Stepper Motor Addition to Lego Orrery
 
 This design replaces the hand-crank operation of the Lego "Planet Earth and Moon in Orbit" set with a 28BYJ-48 stepper motor.
+
+Links:
+
+- [YouTube video for the project](https://youtu.be/TQ7dWtdCNkY)
+- [Thingiverse STL files](https://www.thingiverse.com/thing:6900611)
 
 There are 2 parts to print:
 
@@ -20,7 +27,6 @@ any Arduino.
 
 It requires only the ULN2003A-based driver board.
 
-Links:
+The schematic is as follows:
 
-- [YouTube video for the project](https://youtu.be/TQ7dWtdCNkY)
-- [Thingiverse](https://www.thingiverse.com/thing:6900611)
+![Schematic of circuit](Schematic/LegoOrreryBreadboard.png)
